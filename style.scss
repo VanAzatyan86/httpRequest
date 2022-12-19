@@ -1,0 +1,19 @@
+.box{
+    width: 600px;
+    margin: 0 auto;
+    img{
+        width: 100%;
+    }
+}
+.newBtn{
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 350px;
+    border: none;
+    padding-bottom: 50px;
+    button{
+  background: rgb(120, 120, 246);
+  border: none;
+    }
+}
